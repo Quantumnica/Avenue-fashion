@@ -32,6 +32,11 @@ Admin's website:
 ![veiw payments](https://user-images.githubusercontent.com/74242600/160581262-607b9577-4c7d-4ebe-8ff8-a1070c8e080a.PNG)
 ![veiw products](https://user-images.githubusercontent.com/74242600/160581299-d680128a-ebdd-48a8-8588-3c84717accd8.PNG)
 
+
+
+
+
+
 Username: lazarusmutuku4760@gmail.com
 Password: pasaka001
 HOW TO RUN THE PROJECT 
