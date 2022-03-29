@@ -13,6 +13,15 @@
 
 **Admin Login Details**
 
+Avenue Fashion is an online clothes store that focuses on selling outfits to its customer base. Customers can create account, check out products, add them to their carts, and checkout.
+Below are some snips showing the website's functonality
+
+![signin or register](https://user-images.githubusercontent.com/74242600/160577380-ca24035d-f579-443e-8345-293d657d7c7e.PNG)
+![register](https://user-images.githubusercontent.com/74242600/160577542-10b1b012-ae56-47b9-a84c-0b31a46bafe1.PNG)
+![welcome page](https://user-images.githubusercontent.com/74242600/160577678-db53a13b-45fa-436f-90ef-aff2f78a053e.PNG)
+![inside the cart](https://user-images.githubusercontent.com/74242600/160577823-68ffc963-115d-4fe3-8047-b5ad38cfdf05.PNG)
+
+
 Username: lazarusmutuku4760@gmail.com
 Password: pasaka001
 HOW TO RUN THE PROJECT 
